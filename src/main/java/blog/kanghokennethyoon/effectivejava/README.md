@@ -1,0 +1,1 @@
+Contents under this package are practice examples of lessons in "Effective Java 3/E" by Joshua Bloch.
